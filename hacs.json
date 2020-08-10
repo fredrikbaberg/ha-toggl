@@ -1,0 +1,4 @@
+{
+    "name": "Toggl",
+    "iot_class": ["Cloud Polling"]
+}

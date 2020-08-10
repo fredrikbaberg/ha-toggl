@@ -1,0 +1,17 @@
+{
+  "domain": "toggl",
+  "name": "Toggl",
+  "config_flow": true,
+  "documentation": "https://www.github.com/fredrikbaberg/ha-toggl",
+  "issue_tracker": "https://www.github.com/fredrikbaberg/ha-toggl/issues",
+  "requirements": [
+    "TogglPy==0.1.1"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@fredrikbaberg"
+  ]
+}
